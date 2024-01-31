@@ -8,8 +8,11 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
+      codespace-bookish-space-potato-69w5v9x4p99c59gq
       "cwd": "/workspaces/RETOS---OMAR/Tareas/Calculadora",
-      "program": "/workspaces/RETOS---OMAR/Tareas/Calculadora/build/Debug/outDebug",
+      "program": "/workspaces/RETOS---OMAR/Tareas/Calculadora/build/Debug/outDebug"
+      "cwd": "/workspaces/RETOS---OMAR/Actividades/Hola Mundo",
+      "program": "/workspaces/RETOS---OMAR/Actividades/Hola Mundo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
