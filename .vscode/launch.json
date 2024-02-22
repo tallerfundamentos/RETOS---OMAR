@@ -10,6 +10,10 @@
       "externalConsole": false,
       "cwd": "/workspaces/RETOS---OMAR/Actividades/Act 02",
       "program": "/workspaces/RETOS---OMAR/Actividades/Act 02/build/Debug/outDebug",
+      "cwd": "/workspaces/RETOS---OMAR/Tareas/Calculadora",
+      "program": "/workspaces/RETOS---OMAR/Tareas/Calculadora/build/Debug/outDebug"
+      "cwd": "/workspaces/RETOS---OMAR/Actividades/Hola Mundo",
+      "program": "/workspaces/RETOS---OMAR/Actividades/Hola Mundo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
